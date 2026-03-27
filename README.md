@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil ☄️
 
  <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app)](https://github.com)
    <a href="https://github.com/Zelioca">
 </div>
     
