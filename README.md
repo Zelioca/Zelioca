@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu perfil ☄️
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app)](https://github.com)
 
  <div>
   [![Estatísticas do GitHub](https://github-readme-stats.vercel.app)](https://github.com)
