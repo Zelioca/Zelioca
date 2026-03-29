@@ -1,10 +1,4 @@
-## Bem-vindo(a) ao meu perfil ☄️
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelioca)](https://github.com/anuraghazra/github-readme-stats)
-
- <div>
-   <a href="https://github.com/Zelioca">
-</div>
-    
+# Bem-vindo(a) ao meu perfil ☄️
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
